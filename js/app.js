@@ -63,3 +63,15 @@ function torrentismo(){
 function trekking(){
     window.location="trekking.html";
 }
+
+function chiribiquete(){
+    window.location="chiribiquete.html";
+}
+
+function pasadiaDalias(){
+    window.location="pasadiaDalias.html";
+}
+
+function pasadiaFerriMarcoPolo(){
+    window.location="pasadiaferriMarcoPolo.html";
+}
